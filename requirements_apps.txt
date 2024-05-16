@@ -19,5 +19,5 @@
 
 # Requirements for the Python/Dash app publishing example.
 flask~=2.3.2
-dash~=2.0.0
-pandas~=1.0.0
+dash~=2.0
+pandas~=2.0
