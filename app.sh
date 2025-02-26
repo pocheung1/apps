@@ -12,8 +12,8 @@
 # python -m flask run --host=0.0.0.0 --port=8888
 
 # # Dash example
-pip install -r requirements_apps.txt --user
-python app-dash.py
+# pip install -r requirements_apps.txt --user
+# python app-dash.py
 
 # R/Shiny example
-# R -e 'shiny::runApp("./", port=8888, host="0.0.0.0")'
+R -e 'shiny::runApp("./", port=8888, host="0.0.0.0")'
